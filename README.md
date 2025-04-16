@@ -45,6 +45,10 @@ npm start
 
 The application will be available at http://localhost:3000.
 
+### Live Demo
+
+A live version of the application is available at: https://todo-list-app-bay-delta.vercel.app/
+
 ## Project Structure
 
 ```
